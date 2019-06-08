@@ -3,4 +3,4 @@ the 4 buttons are black,green,red,blue.
 when you click the black button the background color will be black and so on.
 when you click the count button the number will be increment.
 When you click the reset button the count will be reset to zero.
-next in java file use Shared preferences to store the color on the text....
+next in java file use Shared preferences to store the color on the text.
